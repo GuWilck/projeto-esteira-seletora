@@ -1,6 +1,6 @@
 ## Esteira Seletora de Peças com Visão Computacional
 
-![Foto da Esteira](imagens/Projeto%20esteira.png)
+![Foto da Esteira](imagens/Protótipo20%esteira.png)
 
 Este projeto consiste em um sistema de automação mecatrônica que utiliza **Visão Computacional** para identificar cores em tempo real e comandar uma esteira física para realizar a triagem automática de peças. 
 
