@@ -1,0 +1,17 @@
+# Arquivos compilados do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ambientes virtuais
+venv/
+env/
+.env
+
+# Arquivos de sistema do Windows/Mac
+Thumbs.db
+.DS_Store
+
+# Pastas temporárias do VS Code/Arduino
+.vscode/
+build/
