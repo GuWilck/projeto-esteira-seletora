@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 ## Esteira Seletora de Peças com Visão Computacional
-=======
-# Esteira Seletora de Peças com Visão Computacional
->>>>>>> e1554555a5da7d328c7c09251533d7bd26aa1c6d
 
 ![Protótipo da Esteira](<imagens/Protótipo esteira.jpeg>)
 
