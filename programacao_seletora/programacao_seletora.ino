@@ -16,7 +16,11 @@ void loop() {
       Serial.println("Recebido G - Ativando servo");
 
       // Movimento do servo
+<<<<<<< HEAD
       meuServo.write(0);    // gira para a esquerda 
+=======
+      meuServo.write(0);    // gira para a esquerda
+>>>>>>> e1554555a5da7d328c7c09251533d7bd26aa1c6d
       delay(200);           // espera meio segundo
       meuServo.write(90);   // volta para o centro
       delay(200);
